@@ -1,0 +1,13 @@
+Bachelor Project Motor Driver
+
+Features:
+- Two IO Expanders TCA9554A with I2C address 0x38 and 0x39
+- Two Motor Drivers TB6612FNG
+
+
+Possible to connect four DC Motors to the board
+Direction of the motors adjustable with IO Expander (0x38)
+Speed of the motor adjustable with the PWM connector
+
+Eight IO Pins adjustable with IO Expander (0x39)
+
