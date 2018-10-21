@@ -1,5 +1,4 @@
-# bachelorprojectmotordriver
-Bachelor Project Motor Driver
+# Bachelor Project Motor Driver
 
 Features:
 * Two IO Expanders TCA9554A with I2C address 0x38 and 0x39
